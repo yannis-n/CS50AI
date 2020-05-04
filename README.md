@@ -1,7 +1,4 @@
 These are the projects that were implemented as part of following CS50's Artificcial Itelligence from Harvard University. As stated in the course's description "CS50’s Introduction to Artificial Intelligence with Python explores the concepts and algorithms at the foundation of modern artificial intelligence, diving into the ideas that give rise to technologies like game-playing engines, handwriting recognition, and machine translation". The course touched on the following concepts:
-
-
-The Project are as follow:
   -graph search algorithms
   -adversarial search
   -knowledge representation
