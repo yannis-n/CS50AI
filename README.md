@@ -16,9 +16,7 @@ The Project are as follow:
   -natural language processing
 
 1. Degrees:
-  In this problem, we’re interested in finding the shortest path between any two actors by choosing a sequence of movies that connects them. For example, the shortest path between Jennifer Lawrence and Tom Hanks is 2: Jennifer Lawrence is connected to Kevin Bacon by both starring in “X-Men: First Class,” and Kevin Bacon is connected to Tom Hanks by both starring in “Apollo 13.”
-
-  THis problem was framed as a Seach Problem in order to familirize ourselves with this kind of problems: our states are people. Our actions are movies, which take us from one actor to another. Our initial state and goal state are defined by the two people we’re trying to connect. By using breadth-first search, we can find the shortest path from one actor to another.
+  In this problem, we’re interested in finding the shortest path between any two actors by choosing a sequence of movies that connects them. Thiis problem was framed as a Seach Problem in order to familirize ourselves with this kind of problems: our states are people. Our actions are movies, which take us from one actor to another. Our initial state and goal state are defined by the two people we’re trying to connect. By using breadth-first search, we can find the shortest path from one actor to another.
   
 2. Tic-Tac-Toe:
   The goal of this project was to design an AI that is able to play tic-tac-toe performing the most optimal move. This was framed as an adverserial problem using Minimax.
@@ -31,7 +29,6 @@ to draw conclusion for a puzzle of Knights and Knaves. The principle is simple: 
   This porject required the implementation of an Ai designed to play minesweeeper in the most optimal way, achieving this make making inferences about the safety of a move and the state of the board
  
 5. Pagerank:
-
   In this project, we were required to emulate the evaluation of the importance of a web page. TO define importance, the PageRank algorithm was created by Google’s co-founders (including Larry Page, for whom the algorithm was named). In PageRank’s algorithm, a website is more important if it is linked to by other important websites, and links from less important websites have their links weighted less. This definition seems a bit circular, but it turns out that there are multiple strategies for calculating these rankings.
   
 6. Heredity:
